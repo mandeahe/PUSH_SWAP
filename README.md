@@ -1,1 +1,1 @@
-# GET_NEXT_LINE
+# PUSH_SWAP
